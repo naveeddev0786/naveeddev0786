@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-	<img src="/assets/profile_background.png">
+	<img src="profile_background.png">
 </p>
 
 <br/>
